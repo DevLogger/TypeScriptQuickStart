@@ -8,7 +8,7 @@ class MyUser implements User {
     }
 
     public getName(){
-        return name;
+        return this.name;
     }
 
     public greet() : string {
