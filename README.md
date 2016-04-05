@@ -1,1 +1,1 @@
-Quickstart do post http://devlog.com.br/typescript-o-javascript-voce-nunca-viu/
+Projeto usado no post http://devlog.com.br/typescript-usando-libs-nativas/
